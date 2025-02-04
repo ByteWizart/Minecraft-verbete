@@ -6,7 +6,10 @@ body {
     background: linear-gradient(to right, #d7e1ec, #f3f9fe);
     color: #333;
 }
-
+ a {
+            text-decoration: none;
+            color: inherit;
+        }
 header {
     background: #333;
     color: #fff;
